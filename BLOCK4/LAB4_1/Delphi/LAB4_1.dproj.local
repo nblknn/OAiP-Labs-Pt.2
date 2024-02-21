@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.157,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitEditRecord.dfm=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitRecord.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,C:\Users\Ksenia\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\wcringe\oaip lab\delphi s2\laba 4 2\LAB4_2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.277,D:\wcringe\oaip lab\delphi s2\laba 4 2\LAB4_2.dproj=D:\wcringe\oaip lab\delphi s2\laba 4 2\LAB4_2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,D:\wcringe\oaip lab\delphi s2\laba 4 2\LAB4_2.pas=D:\wcringe\oaip lab\delphi s2\laba 4 2\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,D:\wcringe\oaip lab\delphi s2\laba 4 1\LAB4_2.dproj=D:\wcringe\oaip lab\delphi s2\laba 4 1\LAB4_1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.686,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitTask.dfm=D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.174,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitAddRecord.dfm=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitRecord.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.650,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitAddRecord.dfm=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitRecord.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.513,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitMain.dfm=D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitRecord.pas=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitAddRecord.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitRecord.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.174,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitAddRecord.pas=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitRecord.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.650,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitAddRecord.pas=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitRecord.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.344,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitEditRecord.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitEditRecord.pas=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitRecord.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,C:\Users\Ksenia\Documents\Embarcadero\Studio\Projects\Project2.dproj=D:\wcringe\oaip lab\delphi s2\laba 4 2\LAB4_2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.173,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitList.dfm=D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit1.dfm=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitInstruction.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.478,D:\wcringe\oaip lab\delphi s2\laba 4 2\LAB4_2.dfm=D:\wcringe\oaip lab\delphi s2\laba 4 2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.513,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitMain.pas=D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,C:\Users\Ksenia\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\wcringe\oaip lab\delphi s2\laba 4 2\LAB4_2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.686,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitTask.pas=D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.891,D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit1.pas=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitInstruction.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.055,=D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,=D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,=C:\Users\Ksenia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,=D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.809,=D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.749,D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit2.pas=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitAddRecord.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitRecord.dfm=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitAddRecord.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.749,D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit2.dfm=D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitAddRecord.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitList.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.173,D:\wcringe\oaip lab\delphi s2\laba 4 1\UnitList.pas=D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.092,=D:\wcringe\oaip lab\delphi s2\laba 4 1\Unit2.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UnitMain.pas"/>
+    <File Path="UnitMain.dfm"/>
+    <File Path="UnitRecord.pas"/>
+    <File Path="UnitRecord.dfm"/>
+    <File Path="UnitTask.pas"/>
+    <File Path="UnitTask.dfm"/>
+    <File Path="UnitInstruction.pas"/>
+    <File Path="UnitInstruction.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
